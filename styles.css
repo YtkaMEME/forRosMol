@@ -3,7 +3,7 @@
     --text-color: #333;
     --border-color: #ddd;
     --content-background: #fff;
-    --accent-color: #4682b4;
+    --accent-color: #854ebd;
 }
 
 a {
@@ -17,6 +17,10 @@ body {
     background-color: var(--background-color);
     color: var(--text-color);
     padding: 20px;
+}
+
+.back_to_dord{
+    color: var(--accent-color);
 }
 
 .preview__chart-title{
